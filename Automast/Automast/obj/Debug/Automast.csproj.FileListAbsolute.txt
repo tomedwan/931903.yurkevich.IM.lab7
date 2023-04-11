@@ -1,0 +1,10 @@
+C:\Users\Viacheslav\source\repos\Automast\Automast\bin\Debug\Automast.exe.config
+C:\Users\Viacheslav\source\repos\Automast\Automast\bin\Debug\Automast.exe
+C:\Users\Viacheslav\source\repos\Automast\Automast\bin\Debug\Automast.pdb
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.csprojAssemblyReference.cache
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.Form1.resources
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.Properties.Resources.resources
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.csproj.GenerateResource.cache
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.exe
+C:\Users\Viacheslav\source\repos\Automast\Automast\obj\Debug\Automast.pdb
